@@ -253,3 +253,6 @@ section.block .lede{font-size:15px; color:var(--sub); max-width:70ch; margin-bot
 .pub-link{font-size:13px; font-weight:700; color:var(--blue);}
 .empty-state{border:1px dashed var(--line); border-radius:16px; padding:32px 24px; text-align:center;}
 .empty-state p{font-size:14px; color:var(--sub);}
+
+/* Мовний перемикач приховано до готовності англійської версії. Щоб повернути: видалити це правило. */
+.lang{display:none !important;}
